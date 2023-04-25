@@ -32,4 +32,5 @@ For `Final_Webapp`:
 8. In the next graph, we can see predicted values for each of the mechanical properties of the soil. These predicted values are obtained from an RNN machine learning model, which takes in the inputted `interval` as a parameter. The `interval` interval is the number of steps that our RNN model should look back to for predicting the next step. This RNN model also utilizes long short term memory (LSTM)
 ![image](https://user-images.githubusercontent.com/78452259/234371987-44b69b2f-de3e-4236-b7d4-0972960c2052.png)
 9. The final graph is similair to the third graph, except now the known and predicted values are box plots with ranges. This is to represent the uncertainty in our RNN model
+
 ![image](https://user-images.githubusercontent.com/78452259/234372256-ab0b3cdd-7ca8-4a04-8acb-662b56d630ae.png)
