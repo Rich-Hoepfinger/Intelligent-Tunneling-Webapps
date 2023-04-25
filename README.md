@@ -1,5 +1,6 @@
 # Intelligent-Tunneling-Webapps
 For Georgia Tech Spring 2023 VIP Computational Modeling and Visualization for Geomechanics. The overall project can be found here https://ce.gatech.edu/news/researchers-receive-17-million-grant-build-robot-subsurface-soil-exploration
+I worked on this with my VIP advisor Singhai, Sanshrit.
 
 How to use the Repository:
 
